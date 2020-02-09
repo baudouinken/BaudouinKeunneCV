@@ -3,82 +3,86 @@
     box-shadow: 5px 5px 5px 2px black;
     transition: 2s;
 }
-.about:hover .about_t{
-    margin-left: 200px;
-    transition: margin-left 2s;
-}
-.about:hover .about_t1{
-    margin-left: 140px;
-    transition: margin-left 2s;
+
+@media only screen and (min-width: 768px) {
+    .about:hover .about_t{
+        margin-left: 200px;
+        transition: margin-left 2s;
+    }
+    .about:hover .about_t1{
+        margin-left: 140px;
+        transition: margin-left 2s;
+    }
+
+    .card1:hover .h51{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card1:hover .card1_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .card2:hover .h52{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card2:hover .card2_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .card3:hover .h53{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card3:hover .card3_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .card4:hover .h54{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card4:hover .card4_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .card5:hover .h55{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card5:hover .card5_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .card6:hover .h56{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
+    .card6:hover .card6_{
+        font-size: 18px;
+        text-shadow: 0px 5px 5px 5px black;
+        box-shadow: 0px 5px 5px 5px black;
+        transition: 2s;
+    }
+
+    .contact_me:hover .btn_submit{
+        margin-left: 300px;
+        transition: margin-left 2s;
+    }
 }
 
-.card1:hover .h51{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card1:hover .card1_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.card2:hover .h52{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card2:hover .card2_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.card3:hover .h53{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card3:hover .card3_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.card4:hover .h54{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card4:hover .card4_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.card5:hover .h55{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card5:hover .card5_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.card6:hover .h56{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
-.card6:hover .card6_{
-    font-size: 18px;
-    text-shadow: 0px 5px 5px 5px black;
-    box-shadow: 0px 5px 5px 5px black;
-    transition: 2s;
-}
-
-.contact_me:hover .btn_submit{
-    margin-left: 300px;
-    transition: margin-left 2s;
-}
