@@ -20,8 +20,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
-  background-size: cover;
+  background: #040404 url("../img/IMG_0442-Photoroom.png-Photoroom.png") bottom right no-repeat;
+  background-size: 75%;
   left: 0;
   right: 0;
   top: 0;
@@ -740,6 +740,10 @@ section .container {
 
 .services .icon-box h4 a {
   color: #fff;
+}
+
+.services .icon-box:hover h4 {
+  text-decoration: underline;
 }
 
 .services .icon-box p {
